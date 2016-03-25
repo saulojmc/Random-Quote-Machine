@@ -1,5 +1,4 @@
 #CSS
-
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
 * {
   margin: 0;
@@ -78,9 +77,9 @@ body {
       &:hover {
         opacity:0.9;
       }
-      &#tweet-quote, &#tumblr-quote {
+      &#tweet-quote {
         float:left;
-        padding:0px;
+        padding:1px;
         padding-top:8px;
         text-align:center;
         font-size:1.2em;
